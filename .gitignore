@@ -1,0 +1,6 @@
+*.xlsx
+*.csv
+__pycache__/
+.ipynb_checkpoints/
+RNS Forecast 2.ipynb
+RNS Forecast 1.ipynb
